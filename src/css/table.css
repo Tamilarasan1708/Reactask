@@ -1,0 +1,44 @@
+.table-container {
+    margin: 20px;
+    padding: 20px;
+    border: 3px solid #96C3E0;
+    border-radius: 8px;
+    /* background-color: #f9fafb; */
+  }
+  
+  .table-title {
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .custom-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .custom-table th,
+  .custom-table td {
+    text-align: left;
+    padding: 10px;
+
+  }
+  
+  .custom-table th {
+  
+    color: #111827;
+
+  }
+  
+  
+  .custom-table .delivered {
+    color: #96C3E0;
+   
+  }
+  
+  .custom-table .amount {
+    color: #f97316;
+    
+  }
+  
